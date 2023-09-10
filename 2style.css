@@ -1,0 +1,22 @@
+body{
+background-color: #eee;
+}
+.la{
+display: block;
+}
+.custom-primary{
+background-color: blue;
+}
+.custom-info{
+background-color: #ddd;
+}
+.custom-warning{
+background-color: green;
+}
+.custom-danger:{
+background-color: purple;
+}
+.custom-success{
+background-color: black;
+color: white;
+}
